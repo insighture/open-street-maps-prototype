@@ -1,0 +1,38 @@
+[
+    {
+      "name": "Cabin 1",
+      "type": "cabin",
+      "coords": [-27.9230, 153.3115],
+      "icon": "https://cdn-icons-png.flaticon.com/512/808/808439.png"
+    },
+    {
+      "name": "Cabin 2",
+      "type": "cabin",
+      "coords": [-27.9232, 153.3117],
+      "icon": "https://cdn-icons-png.flaticon.com/512/808/808439.png"
+    },
+    {
+      "name": "Campsite A",
+      "type": "campsite",
+      "coords": [-27.9236, 153.3120],
+      "icon": "https://cdn-icons-png.flaticon.com/512/2331/2331970.png"
+    },
+    {
+      "name": "BBQ Area",
+      "type": "facility",
+      "coords": [-27.9233, 153.3113],
+      "icon": "https://cdn-icons-png.flaticon.com/512/854/854878.png"
+    },
+    {
+      "name": "Toilets",
+      "type": "facility",
+      "coords": [-27.9231, 153.3110],
+      "icon": "https://cdn-icons-png.flaticon.com/512/709/709790.png"
+    },
+    {
+      "name": "Reception",
+      "type": "facility",
+      "coords": [-27.9229, 153.3108],
+      "icon": "https://cdn-icons-png.flaticon.com/512/535/535239.png"
+    }
+  ]
