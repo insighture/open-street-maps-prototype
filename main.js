@@ -50,7 +50,7 @@ fetch('boundaries_vic_final.geojson')
   });
 
 // Add markers (cabins, campsites, etc.)
-fetch('locations_vic_final.json')
+fetch('locations_vic.json')
   .then(res => res.json())
   .then(locations => {
     locations.forEach(loc => {
