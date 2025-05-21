@@ -310,16 +310,6 @@
     "property_id": "0fe01fd7-cca9-4457-af80-78dc622af7b8"
   },
   {
-    "name": "Bbq 39",
-    "type": "bbq",
-    "coords": [
-      -37.90352195671783,
-      147.05119882198576
-    ],
-    "icon": "https://img.icons8.com/?size=96&id=0rPSXhidcrMv&format=png",
-    "property_id": "0fe01fd7-cca9-4457-af80-78dc622af7b8"
-  },
-  {
     "name": "Cabin 36",
     "type": "cabin",
     "coords": [
@@ -800,26 +790,6 @@
     "property_id": "931ef9f9-ff58-491b-a397-1a90678772c5"
   },
   {
-    "name": "Toilets 71",
-    "type": "toilets",
-    "coords": [
-      -38.833363327361326,
-      147.2319688574676
-    ],
-    "icon": "https://img.icons8.com/?size=96&id=MdmT27TpNlLH&format=png",
-    "property_id": "95c60aa3-77c5-4af7-81ad-aabfed2dc027"
-  },
-  {
-    "name": "Bbq 39",
-    "type": "bbq",
-    "coords": [
-      -38.82506899834405,
-      147.22433560283477
-    ],
-    "icon": "https://img.icons8.com/?size=96&id=0rPSXhidcrMv&format=png",
-    "property_id": "95c60aa3-77c5-4af7-81ad-aabfed2dc027"
-  },
-  {
     "name": "Toilets 89",
     "type": "toilets",
     "coords": [
@@ -1018,5 +988,185 @@
     ],
     "sticky": true,
     "property_id": "1b9a0a70-44d9-4a00-94a1-8f342373d0bf"
+  },
+  {
+    "name": "Toilet",
+    "type": "facility",
+    "coords": [
+      145.10637017479908,
+      -36.53838693186194
+    ],
+    "icon": "https://img.icons8.com/?size=96&id=MdmT27TpNlLH&format=png",
+    "property_id": "623ca2f7-da36-46c9-8b23-c56c0a43fdb1"
+  },
+  {
+    "name": "Bbq",
+    "type": "facility",
+    "coords": [
+      145.10637017479908,
+      -36.53838693186194
+    ],
+    "icon": "https://img.icons8.com/?size=96&id=0rPSXhidcrMv&format=png",
+    "property_id": "623ca2f7-da36-46c9-8b23-c56c0a43fdb1"
+  },
+  {
+    "name": "Toilet",
+    "type": "facility",
+    "coords": [
+      145.4510325831156,
+      -38.316079388636204
+    ],
+    "icon": "https://img.icons8.com/?size=96&id=MdmT27TpNlLH&format=png",
+    "property_id": "98cb9be3-ed62-4490-935d-89b1f8b2463b"
+  },
+  {
+    "name": "Bbq",
+    "type": "facility",
+    "coords": [
+      145.4510325831156,
+      -38.316079388636204
+    ],
+    "icon": "https://img.icons8.com/?size=96&id=0rPSXhidcrMv&format=png",
+    "property_id": "98cb9be3-ed62-4490-935d-89b1f8b2463b"
+  },
+  {
+    "name": "Toilet",
+    "type": "facility",
+    "coords": [
+      145.42240848398072,
+      -37.69616777557669
+    ],
+    "icon": "https://img.icons8.com/?size=96&id=MdmT27TpNlLH&format=png",
+    "property_id": "06d28315-caed-49b0-b296-9618cb47b8f9"
+  },
+  {
+    "name": "Bbq",
+    "type": "facility",
+    "coords": [
+      145.42240848398072,
+      -37.69616777557669
+    ],
+    "icon": "https://img.icons8.com/?size=96&id=0rPSXhidcrMv&format=png",
+    "property_id": "06d28315-caed-49b0-b296-9618cb47b8f9"
+  },
+  {
+    "name": "Toilet",
+    "type": "facility",
+    "coords": [
+      147.0619593017476,
+      -37.89721921326347
+    ],
+    "icon": "https://img.icons8.com/?size=96&id=MdmT27TpNlLH&format=png",
+    "property_id": "8b659d82-d8aa-4841-b3cd-ab4e3e0fc31f"
+  },
+  {
+    "name": "Bbq",
+    "type": "facility",
+    "coords": [
+      147.0619593017476,
+      -37.89721921326347
+    ],
+    "icon": "https://img.icons8.com/?size=96&id=0rPSXhidcrMv&format=png",
+    "property_id": "8b659d82-d8aa-4841-b3cd-ab4e3e0fc31f"
+  },
+  {
+    "name": "Toilet",
+    "type": "facility",
+    "coords": [
+      145.76955645679624,
+      -37.32313141188597
+    ],
+    "icon": "https://img.icons8.com/?size=96&id=MdmT27TpNlLH&format=png",
+    "property_id": "40a1891d-fe83-4283-95c9-60d14dbdcf5a"
+  },
+  {
+    "name": "Bbq",
+    "type": "facility",
+    "coords": [
+      145.76955645679624,
+      -37.32313141188597
+    ],
+    "icon": "https://img.icons8.com/?size=96&id=0rPSXhidcrMv&format=png",
+    "property_id": "40a1891d-fe83-4283-95c9-60d14dbdcf5a"
+  },
+  {
+    "name": "Toilet",
+    "type": "facility",
+    "coords": [
+      146.48802206891398,
+      -36.942904275774495
+    ],
+    "icon": "https://img.icons8.com/?size=96&id=MdmT27TpNlLH&format=png",
+    "property_id": "28003183-13c5-41fe-a057-6ef84538ce52"
+  },
+  {
+    "name": "Bbq",
+    "type": "facility",
+    "coords": [
+      146.48802206891398,
+      -36.942904275774495
+    ],
+    "icon": "https://img.icons8.com/?size=96&id=0rPSXhidcrMv&format=png",
+    "property_id": "28003183-13c5-41fe-a057-6ef84538ce52"
+  },
+  {
+    "name": "Toilet",
+    "type": "facility",
+    "coords": [
+      144.6343680327528,
+      -36.750511720835476
+    ],
+    "icon": "https://img.icons8.com/?size=96&id=MdmT27TpNlLH&format=png",
+    "property_id": "685be834-678f-4537-abe4-e054038f29c8"
+  },
+  {
+    "name": "Bbq",
+    "type": "facility",
+    "coords": [
+      144.6343680327528,
+      -36.750511720835476
+    ],
+    "icon": "https://img.icons8.com/?size=96&id=0rPSXhidcrMv&format=png",
+    "property_id": "685be834-678f-4537-abe4-e054038f29c8"
+  },
+  {
+    "name": "Toilet",
+    "type": "facility",
+    "coords": [
+      146.94924168831332,
+      -36.25289453845885
+    ],
+    "icon": "https://img.icons8.com/?size=96&id=MdmT27TpNlLH&format=png",
+    "property_id": "839d9bef-5276-4a63-8b58-c4fff551d6f7"
+  },
+  {
+    "name": "Bbq",
+    "type": "facility",
+    "coords": [
+      146.94924168831332,
+      -36.25289453845885
+    ],
+    "icon": "https://img.icons8.com/?size=96&id=0rPSXhidcrMv&format=png",
+    "property_id": "839d9bef-5276-4a63-8b58-c4fff551d6f7"
+  },
+  {
+    "name": "Toilet",
+    "type": "facility",
+    "coords": [
+      147.82768268574958,
+      -37.39612498235514
+    ],
+    "icon": "https://img.icons8.com/?size=96&id=MdmT27TpNlLH&format=png",
+    "property_id": "4459d20d-9ce3-407f-9b3e-5dd0d27902c7"
+  },
+  {
+    "name": "Bbq",
+    "type": "facility",
+    "coords": [
+      147.82768268574958,
+      -37.39612498235514
+    ],
+    "icon": "https://img.icons8.com/?size=96&id=0rPSXhidcrMv&format=png",
+    "property_id": "4459d20d-9ce3-407f-9b3e-5dd0d27902c7"
   }
 ]
