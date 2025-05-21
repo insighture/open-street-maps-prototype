@@ -1,0 +1,1022 @@
+[
+  {
+    "name": "Toilets 12",
+    "type": "toilets",
+    "coords": [
+      -36.57778165928743,
+      145.13068850949213
+    ],
+    "icon": "https://img.icons8.com/?size=96&id=MdmT27TpNlLH&format=png",
+    "property_id": "4d905b29-0793-431c-89c0-50cf5af8d4ef"
+  },
+  {
+    "name": "Bbq 32",
+    "type": "bbq",
+    "coords": [
+      -36.57848059303495,
+      145.11550923238252
+    ],
+    "icon": "https://img.icons8.com/?size=96&id=0rPSXhidcrMv&format=png",
+    "property_id": "4d905b29-0793-431c-89c0-50cf5af8d4ef"
+  },
+  {
+    "name": "Campsite 82",
+    "type": "campsite",
+    "coords": [
+      -36.56274992930714,
+      145.1126915999031
+    ],
+    "icon": "https://img.icons8.com/?size=80&id=40474&format=png",
+    "property_id": "4d905b29-0793-431c-89c0-50cf5af8d4ef"
+  },
+  {
+    "name": "Cabin 17",
+    "type": "cabin",
+    "coords": [
+      -36.542957715056154,
+      145.10059782653664
+    ],
+    "icon": "https://img.icons8.com/?size=160&id=Z0R3F0zLnLhd&format=png",
+    "property_id": "4d905b29-0793-431c-89c0-50cf5af8d4ef"
+  },
+  {
+    "name": "Cabin 85",
+    "type": "cabin",
+    "coords": [
+      -36.56202280672067,
+      145.1318615930446
+    ],
+    "icon": "https://img.icons8.com/?size=160&id=Z0R3F0zLnLhd&format=png",
+    "property_id": "4d905b29-0793-431c-89c0-50cf5af8d4ef"
+  },
+  {
+    "name": "Cabin 33",
+    "type": "cabin",
+    "coords": [
+      -36.57234020885155,
+      145.1211704530504
+    ],
+    "icon": "https://img.icons8.com/?size=160&id=Z0R3F0zLnLhd&format=png",
+    "property_id": "4d905b29-0793-431c-89c0-50cf5af8d4ef"
+  },
+  {
+    "name": "Cabin 59",
+    "type": "cabin",
+    "coords": [
+      -36.581867059268525,
+      145.11594879400837
+    ],
+    "icon": "https://img.icons8.com/?size=160&id=Z0R3F0zLnLhd&format=png",
+    "property_id": "4d905b29-0793-431c-89c0-50cf5af8d4ef"
+  },
+  {
+    "name": "Cabin 84",
+    "type": "cabin",
+    "coords": [
+      -36.55293963692458,
+      145.1334595380635
+    ],
+    "icon": "https://img.icons8.com/?size=160&id=Z0R3F0zLnLhd&format=png",
+    "property_id": "4d905b29-0793-431c-89c0-50cf5af8d4ef"
+  },
+  {
+    "name": "Cabin 29",
+    "type": "cabin",
+    "coords": [
+      -36.586498685699866,
+      145.09678869514485
+    ],
+    "icon": "https://img.icons8.com/?size=160&id=Z0R3F0zLnLhd&format=png",
+    "property_id": "4d905b29-0793-431c-89c0-50cf5af8d4ef"
+  },
+  {
+    "name": "Cabin 5",
+    "type": "cabin",
+    "coords": [
+      -36.552756910489116,
+      145.12245105445217
+    ],
+    "icon": "https://img.icons8.com/?size=160&id=Z0R3F0zLnLhd&format=png",
+    "property_id": "4d905b29-0793-431c-89c0-50cf5af8d4ef"
+  },
+  {
+    "name": "Toilets 18",
+    "type": "toilets",
+    "coords": [
+      -38.35222172479576,
+      145.45658529901075
+    ],
+    "icon": "https://img.icons8.com/?size=96&id=MdmT27TpNlLH&format=png",
+    "property_id": "251a765d-f82c-49bb-bfbf-56d1d2e35d63"
+  },
+  {
+    "name": "Bbq 30",
+    "type": "bbq",
+    "coords": [
+      -38.33892496731636,
+      145.46957696060286
+    ],
+    "icon": "https://img.icons8.com/?size=96&id=0rPSXhidcrMv&format=png",
+    "property_id": "251a765d-f82c-49bb-bfbf-56d1d2e35d63"
+  },
+  {
+    "name": "Campsite 37",
+    "type": "campsite",
+    "coords": [
+      -38.328942827414515,
+      145.47769527502768
+    ],
+    "icon": "https://img.icons8.com/?size=80&id=40474&format=png",
+    "property_id": "251a765d-f82c-49bb-bfbf-56d1d2e35d63"
+  },
+  {
+    "name": "Cabin 73",
+    "type": "cabin",
+    "coords": [
+      -38.34478058904023,
+      145.46583996636406
+    ],
+    "icon": "https://img.icons8.com/?size=160&id=Z0R3F0zLnLhd&format=png",
+    "property_id": "251a765d-f82c-49bb-bfbf-56d1d2e35d63"
+  },
+  {
+    "name": "Campsite 78",
+    "type": "campsite",
+    "coords": [
+      -38.33504132333265,
+      145.45848149381607
+    ],
+    "icon": "https://img.icons8.com/?size=80&id=40474&format=png",
+    "property_id": "251a765d-f82c-49bb-bfbf-56d1d2e35d63"
+  },
+  {
+    "name": "Cabin 69",
+    "type": "cabin",
+    "coords": [
+      -38.34442161496895,
+      145.4657751953203
+    ],
+    "icon": "https://img.icons8.com/?size=160&id=Z0R3F0zLnLhd&format=png",
+    "property_id": "251a765d-f82c-49bb-bfbf-56d1d2e35d63"
+  },
+  {
+    "name": "Campsite 53",
+    "type": "campsite",
+    "coords": [
+      -38.35731326490471,
+      145.4676367450056
+    ],
+    "icon": "https://img.icons8.com/?size=80&id=40474&format=png",
+    "property_id": "251a765d-f82c-49bb-bfbf-56d1d2e35d63"
+  },
+  {
+    "name": "Cabin 8",
+    "type": "cabin",
+    "coords": [
+      -38.3644286527124,
+      145.44946672831193
+    ],
+    "icon": "https://img.icons8.com/?size=160&id=Z0R3F0zLnLhd&format=png",
+    "property_id": "251a765d-f82c-49bb-bfbf-56d1d2e35d63"
+  },
+  {
+    "name": "Cabin 2",
+    "type": "cabin",
+    "coords": [
+      -38.353954856156285,
+      145.47554508763557
+    ],
+    "icon": "https://img.icons8.com/?size=160&id=Z0R3F0zLnLhd&format=png",
+    "property_id": "251a765d-f82c-49bb-bfbf-56d1d2e35d63"
+  },
+  {
+    "name": "Campsite 10",
+    "type": "campsite",
+    "coords": [
+      -38.362055887107736,
+      145.43913242140107
+    ],
+    "icon": "https://img.icons8.com/?size=80&id=40474&format=png",
+    "property_id": "251a765d-f82c-49bb-bfbf-56d1d2e35d63"
+  },
+  {
+    "name": "Toilets 44",
+    "type": "toilets",
+    "coords": [
+      -37.74139658410429,
+      145.42344926620794
+    ],
+    "icon": "https://img.icons8.com/?size=96&id=MdmT27TpNlLH&format=png",
+    "property_id": "4991b863-b6ad-4cd2-905b-ff68ed46007f"
+  },
+  {
+    "name": "Bbq 18",
+    "type": "bbq",
+    "coords": [
+      -37.723213432322304,
+      145.39807139013246
+    ],
+    "icon": "https://img.icons8.com/?size=96&id=0rPSXhidcrMv&format=png",
+    "property_id": "4991b863-b6ad-4cd2-905b-ff68ed46007f"
+  },
+  {
+    "name": "Cabin 68",
+    "type": "cabin",
+    "coords": [
+      -37.73423424291336,
+      145.43081161405962
+    ],
+    "icon": "https://img.icons8.com/?size=160&id=Z0R3F0zLnLhd&format=png",
+    "property_id": "4991b863-b6ad-4cd2-905b-ff68ed46007f"
+  },
+  {
+    "name": "Cabin 62",
+    "type": "cabin",
+    "coords": [
+      -37.74317830508118,
+      145.4155251757724
+    ],
+    "icon": "https://img.icons8.com/?size=160&id=Z0R3F0zLnLhd&format=png",
+    "property_id": "4991b863-b6ad-4cd2-905b-ff68ed46007f"
+  },
+  {
+    "name": "Campsite 13",
+    "type": "campsite",
+    "coords": [
+      -37.734721745258724,
+      145.40950045260993
+    ],
+    "icon": "https://img.icons8.com/?size=80&id=40474&format=png",
+    "property_id": "4991b863-b6ad-4cd2-905b-ff68ed46007f"
+  },
+  {
+    "name": "Campsite 14",
+    "type": "campsite",
+    "coords": [
+      -37.73239160778701,
+      145.39692243643867
+    ],
+    "icon": "https://img.icons8.com/?size=80&id=40474&format=png",
+    "property_id": "4991b863-b6ad-4cd2-905b-ff68ed46007f"
+  },
+  {
+    "name": "Campsite 14",
+    "type": "campsite",
+    "coords": [
+      -37.74646425566217,
+      145.4201170122856
+    ],
+    "icon": "https://img.icons8.com/?size=80&id=40474&format=png",
+    "property_id": "4991b863-b6ad-4cd2-905b-ff68ed46007f"
+  },
+  {
+    "name": "Cabin 15",
+    "type": "cabin",
+    "coords": [
+      -37.74284916587257,
+      145.41739519187604
+    ],
+    "icon": "https://img.icons8.com/?size=160&id=Z0R3F0zLnLhd&format=png",
+    "property_id": "4991b863-b6ad-4cd2-905b-ff68ed46007f"
+  },
+  {
+    "name": "Campsite 11",
+    "type": "campsite",
+    "coords": [
+      -37.72146731732258,
+      145.43338087647678
+    ],
+    "icon": "https://img.icons8.com/?size=80&id=40474&format=png",
+    "property_id": "4991b863-b6ad-4cd2-905b-ff68ed46007f"
+  },
+  {
+    "name": "Campsite 90",
+    "type": "campsite",
+    "coords": [
+      -37.710705587572605,
+      145.39995058497212
+    ],
+    "icon": "https://img.icons8.com/?size=80&id=40474&format=png",
+    "property_id": "4991b863-b6ad-4cd2-905b-ff68ed46007f"
+  },
+  {
+    "name": "Toilets 44",
+    "type": "toilets",
+    "coords": [
+      -37.91405530896069,
+      147.03608654341494
+    ],
+    "icon": "https://img.icons8.com/?size=96&id=MdmT27TpNlLH&format=png",
+    "property_id": "0fe01fd7-cca9-4457-af80-78dc622af7b8"
+  },
+  {
+    "name": "Bbq 39",
+    "type": "bbq",
+    "coords": [
+      -37.90352195671783,
+      147.05119882198576
+    ],
+    "icon": "https://img.icons8.com/?size=96&id=0rPSXhidcrMv&format=png",
+    "property_id": "0fe01fd7-cca9-4457-af80-78dc622af7b8"
+  },
+  {
+    "name": "Cabin 36",
+    "type": "cabin",
+    "coords": [
+      -37.92451872606915,
+      147.04928124970746
+    ],
+    "icon": "https://img.icons8.com/?size=160&id=Z0R3F0zLnLhd&format=png",
+    "property_id": "0fe01fd7-cca9-4457-af80-78dc622af7b8"
+  },
+  {
+    "name": "Cabin 18",
+    "type": "cabin",
+    "coords": [
+      -37.937504398276324,
+      147.06624967830805
+    ],
+    "icon": "https://img.icons8.com/?size=160&id=Z0R3F0zLnLhd&format=png",
+    "property_id": "0fe01fd7-cca9-4457-af80-78dc622af7b8"
+  },
+  {
+    "name": "Cabin 65",
+    "type": "cabin",
+    "coords": [
+      -37.92543290670992,
+      147.08437447162433
+    ],
+    "icon": "https://img.icons8.com/?size=160&id=Z0R3F0zLnLhd&format=png",
+    "property_id": "0fe01fd7-cca9-4457-af80-78dc622af7b8"
+  },
+  {
+    "name": "Cabin 51",
+    "type": "cabin",
+    "coords": [
+      -37.924260422805816,
+      147.03257562302286
+    ],
+    "icon": "https://img.icons8.com/?size=160&id=Z0R3F0zLnLhd&format=png",
+    "property_id": "0fe01fd7-cca9-4457-af80-78dc622af7b8"
+  },
+  {
+    "name": "Cabin 23",
+    "type": "cabin",
+    "coords": [
+      -37.93420487946571,
+      147.03992531880778
+    ],
+    "icon": "https://img.icons8.com/?size=160&id=Z0R3F0zLnLhd&format=png",
+    "property_id": "0fe01fd7-cca9-4457-af80-78dc622af7b8"
+  },
+  {
+    "name": "Campsite 65",
+    "type": "campsite",
+    "coords": [
+      -37.91118293859605,
+      147.05317914932064
+    ],
+    "icon": "https://img.icons8.com/?size=80&id=40474&format=png",
+    "property_id": "0fe01fd7-cca9-4457-af80-78dc622af7b8"
+  },
+  {
+    "name": "Campsite 8",
+    "type": "campsite",
+    "coords": [
+      -37.92461844531735,
+      147.0767891136202
+    ],
+    "icon": "https://img.icons8.com/?size=80&id=40474&format=png",
+    "property_id": "0fe01fd7-cca9-4457-af80-78dc622af7b8"
+  },
+  {
+    "name": "Cabin 100",
+    "type": "cabin",
+    "coords": [
+      -37.93835293687166,
+      147.08784562226117
+    ],
+    "icon": "https://img.icons8.com/?size=160&id=Z0R3F0zLnLhd&format=png",
+    "property_id": "0fe01fd7-cca9-4457-af80-78dc622af7b8"
+  },
+  {
+    "name": "Toilets 91",
+    "type": "toilets",
+    "coords": [
+      -37.355755381831756,
+      145.78023486723885
+    ],
+    "icon": "https://img.icons8.com/?size=96&id=MdmT27TpNlLH&format=png",
+    "property_id": "e0a97210-085b-4269-8df2-706fb9ad58fc"
+  },
+  {
+    "name": "Bbq 37",
+    "type": "bbq",
+    "coords": [
+      -37.32639529879468,
+      145.7675514147829
+    ],
+    "icon": "https://img.icons8.com/?size=96&id=0rPSXhidcrMv&format=png",
+    "property_id": "e0a97210-085b-4269-8df2-706fb9ad58fc"
+  },
+  {
+    "name": "Campsite 38",
+    "type": "campsite",
+    "coords": [
+      -37.32832932865803,
+      145.76209036056954
+    ],
+    "icon": "https://img.icons8.com/?size=80&id=40474&format=png",
+    "property_id": "e0a97210-085b-4269-8df2-706fb9ad58fc"
+  },
+  {
+    "name": "Cabin 29",
+    "type": "cabin",
+    "coords": [
+      -37.374141659088956,
+      145.764599785554
+    ],
+    "icon": "https://img.icons8.com/?size=160&id=Z0R3F0zLnLhd&format=png",
+    "property_id": "e0a97210-085b-4269-8df2-706fb9ad58fc"
+  },
+  {
+    "name": "Campsite 59",
+    "type": "campsite",
+    "coords": [
+      -37.35050539928461,
+      145.7607704836333
+    ],
+    "icon": "https://img.icons8.com/?size=80&id=40474&format=png",
+    "property_id": "e0a97210-085b-4269-8df2-706fb9ad58fc"
+  },
+  {
+    "name": "Cabin 20",
+    "type": "cabin",
+    "coords": [
+      -37.34789204939491,
+      145.7453132102864
+    ],
+    "icon": "https://img.icons8.com/?size=160&id=Z0R3F0zLnLhd&format=png",
+    "property_id": "e0a97210-085b-4269-8df2-706fb9ad58fc"
+  },
+  {
+    "name": "Campsite 45",
+    "type": "campsite",
+    "coords": [
+      -37.340058464646276,
+      145.74523362974395
+    ],
+    "icon": "https://img.icons8.com/?size=80&id=40474&format=png",
+    "property_id": "e0a97210-085b-4269-8df2-706fb9ad58fc"
+  },
+  {
+    "name": "Cabin 61",
+    "type": "cabin",
+    "coords": [
+      -37.36860906595594,
+      145.76553940135824
+    ],
+    "icon": "https://img.icons8.com/?size=160&id=Z0R3F0zLnLhd&format=png",
+    "property_id": "e0a97210-085b-4269-8df2-706fb9ad58fc"
+  },
+  {
+    "name": "Cabin 6",
+    "type": "cabin",
+    "coords": [
+      -37.33541003508195,
+      145.75348105188004
+    ],
+    "icon": "https://img.icons8.com/?size=160&id=Z0R3F0zLnLhd&format=png",
+    "property_id": "e0a97210-085b-4269-8df2-706fb9ad58fc"
+  },
+  {
+    "name": "Campsite 93",
+    "type": "campsite",
+    "coords": [
+      -37.34897883666423,
+      145.75919116356542
+    ],
+    "icon": "https://img.icons8.com/?size=80&id=40474&format=png",
+    "property_id": "e0a97210-085b-4269-8df2-706fb9ad58fc"
+  },
+  {
+    "name": "Toilets 45",
+    "type": "toilets",
+    "coords": [
+      -36.9781339004745,
+      146.48428171066092
+    ],
+    "icon": "https://img.icons8.com/?size=96&id=MdmT27TpNlLH&format=png",
+    "property_id": "6600bfb8-fb3d-465e-8794-760db744da81"
+  },
+  {
+    "name": "Bbq 51",
+    "type": "bbq",
+    "coords": [
+      -36.95335592499252,
+      146.50678890501896
+    ],
+    "icon": "https://img.icons8.com/?size=96&id=0rPSXhidcrMv&format=png",
+    "property_id": "6600bfb8-fb3d-465e-8794-760db744da81"
+  },
+  {
+    "name": "Cabin 72",
+    "type": "cabin",
+    "coords": [
+      -36.98700635849069,
+      146.4902138989682
+    ],
+    "icon": "https://img.icons8.com/?size=160&id=Z0R3F0zLnLhd&format=png",
+    "property_id": "6600bfb8-fb3d-465e-8794-760db744da81"
+  },
+  {
+    "name": "Cabin 39",
+    "type": "cabin",
+    "coords": [
+      -36.97486021422115,
+      146.50166089221466
+    ],
+    "icon": "https://img.icons8.com/?size=160&id=Z0R3F0zLnLhd&format=png",
+    "property_id": "6600bfb8-fb3d-465e-8794-760db744da81"
+  },
+  {
+    "name": "Cabin 77",
+    "type": "cabin",
+    "coords": [
+      -36.978991066839015,
+      146.49157454891775
+    ],
+    "icon": "https://img.icons8.com/?size=160&id=Z0R3F0zLnLhd&format=png",
+    "property_id": "6600bfb8-fb3d-465e-8794-760db744da81"
+  },
+  {
+    "name": "Cabin 37",
+    "type": "cabin",
+    "coords": [
+      -36.99390303786865,
+      146.48424780569803
+    ],
+    "icon": "https://img.icons8.com/?size=160&id=Z0R3F0zLnLhd&format=png",
+    "property_id": "6600bfb8-fb3d-465e-8794-760db744da81"
+  },
+  {
+    "name": "Campsite 57",
+    "type": "campsite",
+    "coords": [
+      -36.96386310427867,
+      146.46869480711598
+    ],
+    "icon": "https://img.icons8.com/?size=80&id=40474&format=png",
+    "property_id": "6600bfb8-fb3d-465e-8794-760db744da81"
+  },
+  {
+    "name": "Campsite 58",
+    "type": "campsite",
+    "coords": [
+      -36.98212924848267,
+      146.4619316146947
+    ],
+    "icon": "https://img.icons8.com/?size=80&id=40474&format=png",
+    "property_id": "6600bfb8-fb3d-465e-8794-760db744da81"
+  },
+  {
+    "name": "Cabin 17",
+    "type": "cabin",
+    "coords": [
+      -36.97716421880734,
+      146.46399169624758
+    ],
+    "icon": "https://img.icons8.com/?size=160&id=Z0R3F0zLnLhd&format=png",
+    "property_id": "6600bfb8-fb3d-465e-8794-760db744da81"
+  },
+  {
+    "name": "Campsite 55",
+    "type": "campsite",
+    "coords": [
+      -36.98600596270112,
+      146.48440070787765
+    ],
+    "icon": "https://img.icons8.com/?size=80&id=40474&format=png",
+    "property_id": "6600bfb8-fb3d-465e-8794-760db744da81"
+  },
+  {
+    "name": "Toilets 13",
+    "type": "toilets",
+    "coords": [
+      -36.79585279100923,
+      144.65229359170957
+    ],
+    "icon": "https://img.icons8.com/?size=96&id=MdmT27TpNlLH&format=png",
+    "property_id": "aeae9744-0a53-4d81-bd10-34903b5861d5"
+  },
+  {
+    "name": "Bbq 69",
+    "type": "bbq",
+    "coords": [
+      -36.78619976436387,
+      144.6315397397028
+    ],
+    "icon": "https://img.icons8.com/?size=96&id=0rPSXhidcrMv&format=png",
+    "property_id": "aeae9744-0a53-4d81-bd10-34903b5861d5"
+  },
+  {
+    "name": "Cabin 46",
+    "type": "cabin",
+    "coords": [
+      -36.78849082694684,
+      144.60803782409536
+    ],
+    "icon": "https://img.icons8.com/?size=160&id=Z0R3F0zLnLhd&format=png",
+    "property_id": "aeae9744-0a53-4d81-bd10-34903b5861d5"
+  },
+  {
+    "name": "Cabin 54",
+    "type": "cabin",
+    "coords": [
+      -36.7965612679729,
+      144.63098302100101
+    ],
+    "icon": "https://img.icons8.com/?size=160&id=Z0R3F0zLnLhd&format=png",
+    "property_id": "aeae9744-0a53-4d81-bd10-34903b5861d5"
+  },
+  {
+    "name": "Campsite 46",
+    "type": "campsite",
+    "coords": [
+      -36.780826347728244,
+      144.61153128008803
+    ],
+    "icon": "https://img.icons8.com/?size=80&id=40474&format=png",
+    "property_id": "aeae9744-0a53-4d81-bd10-34903b5861d5"
+  },
+  {
+    "name": "Campsite 51",
+    "type": "campsite",
+    "coords": [
+      -36.78749738944722,
+      144.64972727390278
+    ],
+    "icon": "https://img.icons8.com/?size=80&id=40474&format=png",
+    "property_id": "aeae9744-0a53-4d81-bd10-34903b5861d5"
+  },
+  {
+    "name": "Cabin 45",
+    "type": "cabin",
+    "coords": [
+      -36.78473102804213,
+      144.63088858632383
+    ],
+    "icon": "https://img.icons8.com/?size=160&id=Z0R3F0zLnLhd&format=png",
+    "property_id": "aeae9744-0a53-4d81-bd10-34903b5861d5"
+  },
+  {
+    "name": "Cabin 73",
+    "type": "cabin",
+    "coords": [
+      -36.78111418965969,
+      144.66304226737014
+    ],
+    "icon": "https://img.icons8.com/?size=160&id=Z0R3F0zLnLhd&format=png",
+    "property_id": "aeae9744-0a53-4d81-bd10-34903b5861d5"
+  },
+  {
+    "name": "Campsite 70",
+    "type": "campsite",
+    "coords": [
+      -36.77958892190209,
+      144.6536884026262
+    ],
+    "icon": "https://img.icons8.com/?size=80&id=40474&format=png",
+    "property_id": "aeae9744-0a53-4d81-bd10-34903b5861d5"
+  },
+  {
+    "name": "Cabin 67",
+    "type": "cabin",
+    "coords": [
+      -36.794396426598105,
+      144.63037365033517
+    ],
+    "icon": "https://img.icons8.com/?size=160&id=Z0R3F0zLnLhd&format=png",
+    "property_id": "aeae9744-0a53-4d81-bd10-34903b5861d5"
+  },
+  {
+    "name": "Toilets 47",
+    "type": "toilets",
+    "coords": [
+      -36.27709211101887,
+      146.96951234633494
+    ],
+    "icon": "https://img.icons8.com/?size=96&id=MdmT27TpNlLH&format=png",
+    "property_id": "931ef9f9-ff58-491b-a397-1a90678772c5"
+  },
+  {
+    "name": "Bbq 79",
+    "type": "bbq",
+    "coords": [
+      -36.29464099471584,
+      146.97406827714406
+    ],
+    "icon": "https://img.icons8.com/?size=96&id=0rPSXhidcrMv&format=png",
+    "property_id": "931ef9f9-ff58-491b-a397-1a90678772c5"
+  },
+  {
+    "name": "Cabin 48",
+    "type": "cabin",
+    "coords": [
+      -36.269251733085326,
+      146.94132789873692
+    ],
+    "icon": "https://img.icons8.com/?size=160&id=Z0R3F0zLnLhd&format=png",
+    "property_id": "931ef9f9-ff58-491b-a397-1a90678772c5"
+  },
+  {
+    "name": "Cabin 32",
+    "type": "cabin",
+    "coords": [
+      -36.266322697562686,
+      146.95026602549916
+    ],
+    "icon": "https://img.icons8.com/?size=160&id=Z0R3F0zLnLhd&format=png",
+    "property_id": "931ef9f9-ff58-491b-a397-1a90678772c5"
+  },
+  {
+    "name": "Campsite 80",
+    "type": "campsite",
+    "coords": [
+      -36.26477731332677,
+      146.94623109879166
+    ],
+    "icon": "https://img.icons8.com/?size=80&id=40474&format=png",
+    "property_id": "931ef9f9-ff58-491b-a397-1a90678772c5"
+  },
+  {
+    "name": "Cabin 19",
+    "type": "cabin",
+    "coords": [
+      -36.29730693553927,
+      146.94049358878007
+    ],
+    "icon": "https://img.icons8.com/?size=160&id=Z0R3F0zLnLhd&format=png",
+    "property_id": "931ef9f9-ff58-491b-a397-1a90678772c5"
+  },
+  {
+    "name": "Cabin 9",
+    "type": "cabin",
+    "coords": [
+      -36.27289781659763,
+      146.93902836623113
+    ],
+    "icon": "https://img.icons8.com/?size=160&id=Z0R3F0zLnLhd&format=png",
+    "property_id": "931ef9f9-ff58-491b-a397-1a90678772c5"
+  },
+  {
+    "name": "Cabin 67",
+    "type": "cabin",
+    "coords": [
+      -36.29663906495775,
+      146.96961787713468
+    ],
+    "icon": "https://img.icons8.com/?size=160&id=Z0R3F0zLnLhd&format=png",
+    "property_id": "931ef9f9-ff58-491b-a397-1a90678772c5"
+  },
+  {
+    "name": "Cabin 100",
+    "type": "cabin",
+    "coords": [
+      -36.27860571118672,
+      146.95590875139652
+    ],
+    "icon": "https://img.icons8.com/?size=160&id=Z0R3F0zLnLhd&format=png",
+    "property_id": "931ef9f9-ff58-491b-a397-1a90678772c5"
+  },
+  {
+    "name": "Cabin 55",
+    "type": "cabin",
+    "coords": [
+      -36.278898175188296,
+      146.9671031833823
+    ],
+    "icon": "https://img.icons8.com/?size=160&id=Z0R3F0zLnLhd&format=png",
+    "property_id": "931ef9f9-ff58-491b-a397-1a90678772c5"
+  },
+  {
+    "name": "Toilets 71",
+    "type": "toilets",
+    "coords": [
+      -38.833363327361326,
+      147.2319688574676
+    ],
+    "icon": "https://img.icons8.com/?size=96&id=MdmT27TpNlLH&format=png",
+    "property_id": "95c60aa3-77c5-4af7-81ad-aabfed2dc027"
+  },
+  {
+    "name": "Bbq 39",
+    "type": "bbq",
+    "coords": [
+      -38.82506899834405,
+      147.22433560283477
+    ],
+    "icon": "https://img.icons8.com/?size=96&id=0rPSXhidcrMv&format=png",
+    "property_id": "95c60aa3-77c5-4af7-81ad-aabfed2dc027"
+  },
+  {
+    "name": "Toilets 89",
+    "type": "toilets",
+    "coords": [
+      -37.43056485486772,
+      147.826030580008
+    ],
+    "icon": "https://img.icons8.com/?size=96&id=MdmT27TpNlLH&format=png",
+    "property_id": "1b9a0a70-44d9-4a00-94a1-8f342373d0bf"
+  },
+  {
+    "name": "Bbq 21",
+    "type": "bbq",
+    "coords": [
+      -37.41139586747906,
+      147.82810653704325
+    ],
+    "icon": "https://img.icons8.com/?size=96&id=0rPSXhidcrMv&format=png",
+    "property_id": "1b9a0a70-44d9-4a00-94a1-8f342373d0bf"
+  },
+  {
+    "name": "Cabin 36",
+    "type": "cabin",
+    "coords": [
+      -37.425531863750635,
+      147.79869193422536
+    ],
+    "icon": "https://img.icons8.com/?size=160&id=Z0R3F0zLnLhd&format=png",
+    "property_id": "1b9a0a70-44d9-4a00-94a1-8f342373d0bf"
+  },
+  {
+    "name": "Campsite 83",
+    "type": "campsite",
+    "coords": [
+      -37.41105159789582,
+      147.8519499981417
+    ],
+    "icon": "https://img.icons8.com/?size=80&id=40474&format=png",
+    "property_id": "1b9a0a70-44d9-4a00-94a1-8f342373d0bf"
+  },
+  {
+    "name": "Cabin 29",
+    "type": "cabin",
+    "coords": [
+      -37.41128063428135,
+      147.81920390398068
+    ],
+    "icon": "https://img.icons8.com/?size=160&id=Z0R3F0zLnLhd&format=png",
+    "property_id": "1b9a0a70-44d9-4a00-94a1-8f342373d0bf"
+  },
+  {
+    "name": "Cabin 23",
+    "type": "cabin",
+    "coords": [
+      -37.402803300587856,
+      147.84051544508517
+    ],
+    "icon": "https://img.icons8.com/?size=160&id=Z0R3F0zLnLhd&format=png",
+    "property_id": "1b9a0a70-44d9-4a00-94a1-8f342373d0bf"
+  },
+  {
+    "name": "Campsite 83",
+    "type": "campsite",
+    "coords": [
+      -37.42468919464305,
+      147.81491382532633
+    ],
+    "icon": "https://img.icons8.com/?size=80&id=40474&format=png",
+    "property_id": "1b9a0a70-44d9-4a00-94a1-8f342373d0bf"
+  },
+  {
+    "name": "Campsite 35",
+    "type": "campsite",
+    "coords": [
+      -37.4357216575424,
+      147.80430840056908
+    ],
+    "icon": "https://img.icons8.com/?size=80&id=40474&format=png",
+    "property_id": "1b9a0a70-44d9-4a00-94a1-8f342373d0bf"
+  },
+  {
+    "name": "Campsite 7",
+    "type": "campsite",
+    "coords": [
+      -37.44005939268038,
+      147.83687346540995
+    ],
+    "icon": "https://img.icons8.com/?size=80&id=40474&format=png",
+    "property_id": "1b9a0a70-44d9-4a00-94a1-8f342373d0bf"
+  },
+  {
+    "name": "Campsite 99",
+    "type": "campsite",
+    "coords": [
+      -37.40764607820123,
+      147.85151363717333
+    ],
+    "icon": "https://img.icons8.com/?size=80&id=40474&format=png",
+    "property_id": "1b9a0a70-44d9-4a00-94a1-8f342373d0bf"
+  },
+  {
+    "name": "Property 1",
+    "type": "label",
+    "coords": [
+      -36.567039520464,
+      145.11811672960783
+    ],
+    "sticky": true,
+    "property_id": "4d905b29-0793-431c-89c0-50cf5af8d4ef"
+  },
+  {
+    "name": "Property 2",
+    "type": "label",
+    "coords": [
+      -38.34820857077496,
+      145.4625735172496
+    ],
+    "sticky": true,
+    "property_id": "251a765d-f82c-49bb-bfbf-56d1d2e35d63"
+  },
+  {
+    "name": "Property 3",
+    "type": "label",
+    "coords": [
+      -37.73306222438967,
+      145.41451240008317
+    ],
+    "sticky": true,
+    "property_id": "4991b863-b6ad-4cd2-905b-ff68ed46007f"
+  },
+  {
+    "name": "Property 4",
+    "type": "label",
+    "coords": [
+      -37.923765291979045,
+      147.0577505592073
+    ],
+    "sticky": true,
+    "property_id": "0fe01fd7-cca9-4457-af80-78dc622af7b8"
+  },
+  {
+    "name": "Property 5",
+    "type": "label",
+    "coords": [
+      -37.34760755194013,
+      145.76040053686125
+    ],
+    "sticky": true,
+    "property_id": "e0a97210-085b-4269-8df2-706fb9ad58fc"
+  },
+  {
+    "name": "Property 6",
+    "type": "label",
+    "coords": [
+      -36.97754130371563,
+      146.48377865874144
+    ],
+    "sticky": true,
+    "property_id": "6600bfb8-fb3d-465e-8794-760db744da81"
+  },
+  {
+    "name": "Property 7",
+    "type": "label",
+    "coords": [
+      -36.787525895367025,
+      144.63621056371548
+    ],
+    "sticky": true,
+    "property_id": "aeae9744-0a53-4d81-bd10-34903b5861d5"
+  },
+  {
+    "name": "Property 8",
+    "type": "label",
+    "coords": [
+      -36.27964325531792,
+      146.9553557413431
+    ],
+    "sticky": true,
+    "property_id": "931ef9f9-ff58-491b-a397-1a90678772c5"
+  },
+  {
+    "name": "Property 9",
+    "type": "label",
+    "coords": [
+      -38.82833958363659,
+      147.23533668794022
+    ],
+    "sticky": true,
+    "property_id": "95c60aa3-77c5-4af7-81ad-aabfed2dc027"
+  },
+  {
+    "name": "Property 10",
+    "type": "label",
+    "coords": [
+      -37.420074444192956,
+      147.8272107726963
+    ],
+    "sticky": true,
+    "property_id": "1b9a0a70-44d9-4a00-94a1-8f342373d0bf"
+  }
+]
